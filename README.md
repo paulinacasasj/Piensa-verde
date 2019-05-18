@@ -1,5 +1,5 @@
-# GREEN SOUL:leaves:
-:earth_americas: Mi proyecto consiste en hacer un trueque con residuos sólidos reciclables en la Universidad de Guanajuato.
+# GREEN SOUL🍃
+🌎 Mi proyecto consiste en hacer un trueque con residuos sólidos reciclables en la Universidad de Guanajuato.
 
 
 
