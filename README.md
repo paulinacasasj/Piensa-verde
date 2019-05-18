@@ -3,6 +3,7 @@
 
 ![au](http://www.naturahoy.com/wp-content/uploads/2018/05/reciclaje_dia.jpg)
 
+Datos curiosos 
 
 ## ¿Qué es lo que abarca?
  - [ ] Niños
