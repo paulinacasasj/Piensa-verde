@@ -1,6 +1,7 @@
 # GREEN SOUL🍃
-🌎 Mi proyecto consiste en hacer un trueque con residuos sólidos reciclables en la Universidad de Guanajuato.
+🌎 Mi proyecto consiste en hacer un trueque con residuos sólidos reciclables en la Universidad de Guanajuato.♻️
 
+![au](http://www.naturahoy.com/wp-content/uploads/2018/05/reciclaje_dia.jpg)
 
 
 ## ¿Qué es lo que abarca?
